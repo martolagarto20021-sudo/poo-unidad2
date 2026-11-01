@@ -1,13 +1,13 @@
 # Sistema de gestion de contenido audiovisual
 
 ## 1. Descripción del Proyecto
-**Objetivo Aplicación:** 
-- Este programa lo hice en Java usando Eclipse para ordenar y manejar diferentes tipos de contenido multimedia en un solo lugar. La idea principal es aplicar lo que hemos visto sobre Programación Orientada a Objetos (como herencia, clases abstractas y polimorfismo) para conectar varias clases y que trabajen juntas.
-**Características Principales:**
+- **Objetivo Aplicación:** 
+Este programa lo hice en Java usando Eclipse para ordenar y manejar diferentes tipos de contenido multimedia en un solo lugar. La idea principal es aplicar lo que hemos visto sobre Programación Orientada a Objetos (como herencia, clases abstractas y polimorfismo) para conectar varias clases y que trabajen juntas.
+- **Características Principales:**
 Aplica bases de POO: Herencia, Encapsulamiento, Abstracción y Polimorfismo.
 Modela relaciones estructurales complejas entre entidades (Asociación, Agregación y Composición).
-**Problema que Resuelve:** 
-- El problema que resuelve es que al juntar clases distintas puede volverse problemnatico si el código es muy rígido. Con esta estructura base, el sistema se vuelve flexible y deja agregar nuevos contenidos sin tener que romper o reescribir el código que ya funcionaba.
+- **Problema que Resuelve:** 
+El problema que resuelve es que al juntar clases distintas puede volverse problemnatico si el código es muy rígido. Con esta estructura base, el sistema se vuelve flexible y deja agregar nuevos contenidos sin tener que romper o reescribir el código que ya funcionaba.
 
 
 ## 2. Objetivos del proyecto
