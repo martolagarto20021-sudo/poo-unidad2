@@ -1,4 +1,4 @@
-# Sistema de Gestión de Contenidos Audiovisuales - UPS POO Unidad 2
+# Sistema de Gestión de Contenidos Audiovisuales 
 
 ## 1. Descripción del Proyecto
 - **Propósito de la Aplicación:** Gestionar, modelar y clasificar un catálogo diverso de contenidos multimedia mediante la implementación de los principios de la Programación Orientada a Objetos (POO) en Java.
